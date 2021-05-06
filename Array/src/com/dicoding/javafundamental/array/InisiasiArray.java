@@ -35,6 +35,19 @@ public class InisiasiArray {
         System.out.println(arrInt2[4]);
         System.out.println(arrInt2[5]);
         System.out.println();
+
+        // cara ke tiga (lebih sederhana)
+        int[] arrInt3 = {1, 3, 4, 4, 5, 6};
+
+        System.out.println("Cara ke dua");
+
+        System.out.println(arrInt3[0]);
+        System.out.println(arrInt3[1]);
+        System.out.println(arrInt3[2]);
+        System.out.println(arrInt3[3]);
+        System.out.println(arrInt3[4]);
+        System.out.println(arrInt3[5]);
+        System.out.println();
     }
 
 }
